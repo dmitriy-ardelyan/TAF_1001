@@ -1,0 +1,3 @@
+rootProject.name = 'TAF_1001'
+include 'taf_core'
+
